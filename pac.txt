@@ -928,7 +928,7 @@ function FindProxyForURL(url, host) {
 
   fbtw = ['twitter.com', 'twimg.com', 't.co', 'x.com',
           'facebook.com', 'fbcdn.net',
-          'instagram.com','chatgpt.com', 'cdninstagram.com','*.google.com'
+          'instagram.com','chatgpt.com', 'cdninstagram.com','*.google.com',
           'fb.com', 'messenger.com',
           'ytimg.com', 'youtube.com', 'googleapis.com', '4pda.to', 'gstatic.com', 'l.google.com', 'ggpht.com', 'googleusercontent.com', 'youtu.be','*.googlevideo.com','googlevideo.com', 'redirector.googlevideo.com'
           ];
